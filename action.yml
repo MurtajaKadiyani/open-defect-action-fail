@@ -1,4 +1,4 @@
-name: "Open Github Defect(Issue) when Github Action Fails"
+name: "Open Github Defect(Issue)"
 author: MurtajaKadiyani
 description: "Opens a github issue"
 inputs:
