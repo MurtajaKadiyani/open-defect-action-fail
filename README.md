@@ -29,7 +29,7 @@ The issue object as a json string.
 ## Example usage
 
 ```yaml
-uses: MurtajaKadiyani/open-defect-action@v1
+uses: MurtajaKadiyani/open-defect-action-fail@v1
 with:
   token: ${{ secrets.GITHUB_TOKEN }}
   title: Some Issue Title
